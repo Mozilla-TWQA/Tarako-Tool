@@ -1,0 +1,16 @@
+Flash tools for (unreleased) Tarako b2g device.
+
+Requires access to Mozilla Taipei VPN (sorry).
+It will download the images and flash them.
+
+flash_tarako_eng.sh
+        Flash engineering build.
+
+flash_tarako.sh
+        Flash production build.
+
+flash_gaia_gecko.sh
+        Flash gaia + gecko.
+
+shallow_flash.sh
+        Helper to flash gaia + gecko.
